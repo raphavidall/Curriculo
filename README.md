@@ -6,7 +6,7 @@ Este projeto consiste numa estrutura feita em HTML e CSS para a construção de 
 ## Visualização do projeto
 Aqui está uma prévia da estrutura inicial do projeto:
 
-<img src= "./assets/previa-curriculo.png" alt='imagem-t-shaped'/>
+<img src= "./assets/previa-curriculo .png" alt='imagem-t-shaped'/>
 
 ## Como utilizar o projeto
 Para utilizar o projeto, primeiramente você deve realizar um fork deste repositório. Em seguida poderá editar os arquivos do seu fork pelo próprio github ou
